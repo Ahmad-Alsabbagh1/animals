@@ -1,3 +1,5 @@
 Zebra
 Lion
 Monkey
+Tiger
+Snake
